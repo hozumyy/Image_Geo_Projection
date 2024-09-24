@@ -1,0 +1,16 @@
+image_path: image/sample.jpeg
+lat_camera: 40.7 # Degree, Yucca Ridge latitude
+lon_camea: -104.9 # Degree, Yucca Ridge longitude
+alt_camera: 1.5 # Km
+alt_mapping: 85 # km
+Re: 6371 # Km, Earth Radius
+azimuth_center: 24.9 # Degree, Azimuth Angle at Image Center
+elvation_center: 2.3 # Degree, Elevation Angle at Image Center
+azimuth_width: 25.1 # Degree, Width of Azimuth Angle
+elevation_width: 19.2 # Degree, Width of Elevation Angle
+result_path: results
+map_crop: True #
+lat_map0: 40.0 # Degree, Only When map_crop = True
+lat_map1: 48.0 # Degree, Only When map_crop = True
+lon_map0: -105.2 # Degree, Only When map_crop = True
+lon_map1: -99.0 # Degree, Only When map_crop = True
